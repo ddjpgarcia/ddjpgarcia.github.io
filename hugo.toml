@@ -44,6 +44,9 @@ enableRobotsTXT = true
     title = 'ARCHIVO'
     href = '/archive'
   [[params.additional_menus]]
+    title = 'CV'
+    href = '/cv'
+  [[params.additional_menus]]
     title = 'ACERCA DE'
     href = '/acerca'
 
