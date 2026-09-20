@@ -36,7 +36,7 @@ enableRobotsTXT = true
 
   # Barra lateral
   sidebar_about_description = 'Analista de datos e ingeniero de analítica.'
-  # sidebar_avatar = 'img/avatar.jpg'   # coloca tu foto en static/img/
+  sidebar_avatar = 'img/avatar.jpg'   # foto en static/img/
 
   # Modo oscuro: el botón está activo por defecto. Para quitarlo: dark_mode_toggle = false
 
