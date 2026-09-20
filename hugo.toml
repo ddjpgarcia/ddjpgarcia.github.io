@@ -1,7 +1,7 @@
 # Configuración del sitio con el tema CleanWhite.
 # Cambia baseURL por tu usuario de GitHub (el workflow lo sobreescribe al publicar).
-baseURL = 'https://TU-USUARIO.github.io/'
-title = 'Dan | Portafolio'
+baseURL = 'https://DDJPGARCIA.github.io/'
+title = 'Daniel Pérez García | Portafolio'
 theme = 'hugo-theme-cleanwhite'
 locale = 'es-mx'
 defaultContentLanguage = 'es'
@@ -13,7 +13,7 @@ enableRobotsTXT = true
 [params]
   # Imagen de cabecera (static/img/home-bg.jpg). Puedes reemplazarla por otra.
   header_image = 'img/home-bg.jpg'
-  SEOTitle = 'Dan | Portafolio de datos'
+  SEOTitle = 'Daniel Pérez García | Portafolio de datos'
   description = 'Portafolio de análisis de datos e ingeniería de analítica.'
   keyword = 'análisis de datos, analítica, SQL, Python, portafolio'
   slogan = 'Datos, analítica y pipelines'
@@ -49,9 +49,10 @@ enableRobotsTXT = true
 
   [params.social]
     rss = true
-    email = ''
-    github = ''
-    linkedin = ''
+    email = 'gr.dedaniel@gmail.com'
+    github = 'https://github.com/ddjpgarcia'
+    linkedin = 'https://www.linkedin.com/in/ddjpgarcia/'
+    twitter = 'https://x.com/ddjpgarcia'   # el tema usa la clave "twitter" para X
 
 [markup]
   [markup.tableOfContents]
